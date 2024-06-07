@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PracticasLP3.props" />
+</Project>
